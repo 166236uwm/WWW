@@ -1,5 +1,5 @@
-from lab2.models import Person
-from lab2.serializers import PersonSerializer
+from .models import Person
+from .serializers import PersonSerializer
 from rest_framework.renderers import JSONRenderer
 from rest_framework.parsers import JSONParser
 

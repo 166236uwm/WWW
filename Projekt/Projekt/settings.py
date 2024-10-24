@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'lab2',
+    'lab3',
     'debug_toolbar',
 ]
 
